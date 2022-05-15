@@ -1,5 +1,4 @@
-package game.logic; //ID:212434377
-
+package game.logic;
 import geometry.Line;
 import geometry.Point;
 
