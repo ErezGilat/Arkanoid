@@ -1,5 +1,4 @@
-package game.graphic; //212434377
-
+package game.graphic;
 import biuoop.DrawSurface;
 import biuoop.Sleeper;
 import game.logic.SpriteCollection;
