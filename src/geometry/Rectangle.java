@@ -1,5 +1,4 @@
 package geometry;
-//ID:212434377
 
 import biuoop.DrawSurface;
 
