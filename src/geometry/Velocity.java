@@ -1,4 +1,4 @@
-package geometry; //ID: 212434377
+package geometry;
 /**
  * The class defines the object Velocity , the object fields are dx and dy which are doubles .
  * @author Erez Gilat
