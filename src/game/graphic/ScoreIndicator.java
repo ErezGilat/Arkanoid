@@ -1,4 +1,3 @@
-//212434377
 package game.graphic;
 
 import biuoop.DrawSurface;
