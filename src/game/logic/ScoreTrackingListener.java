@@ -1,4 +1,3 @@
-//212434377
 package game.logic;
 /**
  * The following class tracks the score of a game.
