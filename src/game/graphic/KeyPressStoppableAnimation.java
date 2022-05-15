@@ -1,4 +1,4 @@
-package game.graphic; //ID: 212434377
+package game.graphic;
 
 import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
