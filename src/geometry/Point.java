@@ -1,4 +1,4 @@
-package geometry; //ID: 212434377
+package geometry;
 /**
  * The class defines the object Point , the object fields are x and y which are doubles .
  * @author Erez Gilat
