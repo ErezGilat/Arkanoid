@@ -1,4 +1,3 @@
-//212434377
 package game.logic;
 /**
  * Printing when a block on the screen is being hit.
